@@ -14,8 +14,6 @@
 
 - 👨‍💻 See most of my services in my homelab **[https://status.mjelde.us](https://status.mjelde.us)**
 
-- 📄 Know about my experiences **[https://tanner.mjelde.us](https://tanner.mjelde.us)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Reasel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Reasel" height="30" width="40" /></a>
